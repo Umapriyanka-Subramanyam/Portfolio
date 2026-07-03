@@ -29,7 +29,7 @@ I'm passionate about turning complex data into actionable insights and building 
 ## 🔗 Connect With Me
 
 - **Email:** umapriyankasubramanyam@gmail.com
-- **LinkedIn:** [Umapriyanka Subramanyam](https://linkedin.com/in/umapriyanka)
+- **LinkedIn:** [Umapriyanka Subramanyam](https://www.linkedin.com/in/umapriyanka-subramanyam-993068297)
 - **GitHub:** [@Umapriyanka-Subramanyam](https://github.com/Umapriyanka-Subramanyam)
 - **Location:** Coimbatore, Tamil Nadu, India
 
