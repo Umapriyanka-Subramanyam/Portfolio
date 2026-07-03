@@ -41,4 +41,10 @@ I'm passionate about turning complex data into actionable insights and building 
 - `photo.png` - Profile photo
 - `AI-ROLE Resume.pdf` - My resume
 
+## 🚀 View Live
 
+Visit my portfolio at: [http://localhost:8000](http://localhost:8000) (when running locally)
+
+---
+
+**Made with 💜 | AI Engineer | Data Science Enthusiast**
